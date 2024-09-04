@@ -50,7 +50,7 @@
 
 <img src="https://img.shields.io/badge/MySQL-282C34?&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="35" />
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau logo" title="Tableau" height="35" />
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white" alt="Tableau logo" title="Tableau" height="35" />
 
 </p>
 
